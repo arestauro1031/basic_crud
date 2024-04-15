@@ -1,0 +1,1 @@
+code .              #in cmd this will automatically load the directory into vs code
