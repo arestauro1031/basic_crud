@@ -16,3 +16,4 @@ code .              #in cmd this will automatically load the directory into vs c
 
 
 https://www.youtube.com/watch?v=N6jzspc2kds    link employee project crud
+https://www.youtube.com/watch?v=7G_parpTXiw     paolul take sa sugal
