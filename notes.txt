@@ -1,1 +1,18 @@
 code .              #in cmd this will automatically load the directory into vs code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=N6jzspc2kds    link employee project crud
